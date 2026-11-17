@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Gomba Data Viewer"
+msgstr "Gomba Data Viewer"
+
+msgid "Load"
+msgstr "Load"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Chart"
+msgstr "Chart"
+
+msgid "Search:"
+msgstr "Search:"
+
+msgid "Rows per page:"
+msgstr "Rows per page:"
+
+msgid "Save CSV"
+msgstr "Save CSV"
+
+msgid "Save As..."
+msgstr "Save As..."
+
+msgid "Export JSON"
+msgstr "Export JSON"
+
+msgid "Save to SQLite"
+msgstr "Save to SQLite"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Welcome to Gomba Data Viewer!"
+msgstr "Welcome to Gomba Data Viewer!"
+
+msgid "Load a CSV or JSON file to get started."
+msgstr "Load a CSV or JSON file to get started."
+
+msgid "Choose language:"
+msgstr "Choose language:"
+
+msgid "English"
+msgstr "English"
+
+msgid "Hungarian"
+msgstr "Hungarian"
+
+msgid "Column settings"
+msgstr "Column settings"
+
+msgid "Add column"
+msgstr "Add column"
+
+msgid "Add image URL column"
+msgstr "Add image URL column"
+
+msgid "Rename"
+msgstr "Rename"
+
+msgid "Lock / unlock"
+msgstr "Lock / unlock"
+
+msgid "No data loaded."
+msgstr "No data loaded."
+
+msgid "No matching rows."
+msgstr "No matching rows."
+
+msgid "No chart data."
+msgstr "No chart data."
+
+msgid "Non-empty values"
+msgstr "Non-empty values"
+
+msgid "Unique values"
+msgstr "Unique values"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Count"
+msgstr "Count"
+
+msgid "Rows"
+msgstr "rows"
+
+msgid "results"
+msgstr "results"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Column already exists."
+msgstr "A column with this name already exists."
+
+msgid "Column name:"
+msgstr "Column name:"
+
+msgid "New column name:"
+msgstr "New column name:"
+
+msgid "The selected folder contains no supported image files."
+msgstr "The selected folder contains no supported image files."
+
+msgid "Could not load file:"
+msgstr "Could not load file:"
+
+msgid "Could not save file:"
+msgstr "Could not save file:"
+
+msgid "Language saved. Restart the application to apply it everywhere."
+msgstr "Language saved. Restart the application to apply it everywhere."
+
+msgid "Export complete."
+msgstr "Export complete."
+
+msgid "SQLite table name:"
+msgstr "SQLite table name:"

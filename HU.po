@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Language: hu\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Gomba Data Viewer"
+msgstr "Gomba Adatnéző"
+
+msgid "Load"
+msgstr "Betöltés"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Chart"
+msgstr "Grafikon"
+
+msgid "Search:"
+msgstr "Keresés:"
+
+msgid "Rows per page:"
+msgstr "Sor oldalanként:"
+
+msgid "Save CSV"
+msgstr "CSV mentése"
+
+msgid "Save As..."
+msgstr "Mentés másként..."
+
+msgid "Export JSON"
+msgstr "JSON exportálása"
+
+msgid "Save to SQLite"
+msgstr "Mentés SQLite-ba"
+
+msgid "Exit"
+msgstr "Kilépés"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Welcome to Gomba Data Viewer!"
+msgstr "Üdvözöl a Gomba Adatnéző!"
+
+msgid "Load a CSV or JSON file to get started."
+msgstr "Kezdéshez tölts be egy CSV- vagy JSON-fájlt."
+
+msgid "Choose language:"
+msgstr "Nyelv választása:"
+
+msgid "English"
+msgstr "Angol"
+
+msgid "Hungarian"
+msgstr "Magyar"
+
+msgid "Column settings"
+msgstr "Oszlopbeállítások"
+
+msgid "Add column"
+msgstr "Oszlop hozzáadása"
+
+msgid "Add image URL column"
+msgstr "Kép-URL oszlop hozzáadása"
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "Lock / unlock"
+msgstr "Zárolás / feloldás"
+
+msgid "No data loaded."
+msgstr "Nincs betöltött adat."
+
+msgid "No matching rows."
+msgstr "Nincs találat."
+
+msgid "No chart data."
+msgstr "Nincs megjeleníthető grafikonadat."
+
+msgid "Non-empty values"
+msgstr "Nem üres értékek"
+
+msgid "Unique values"
+msgstr "Egyedi értékek"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "Count"
+msgstr "Darab"
+
+msgid "Rows"
+msgstr "sor"
+
+msgid "results"
+msgstr "találat"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Column already exists."
+msgstr "Ilyen nevű oszlop már létezik."
+
+msgid "Column name:"
+msgstr "Oszlop neve:"
+
+msgid "New column name:"
+msgstr "Új oszlopnév:"
+
+msgid "The selected folder contains no supported image files."
+msgstr "A kiválasztott mappában nincs támogatott képfájl."
+
+msgid "Could not load file:"
+msgstr "Nem sikerült betölteni a fájlt:"
+
+msgid "Could not save file:"
+msgstr "Nem sikerült menteni a fájlt:"
+
+msgid "Language saved. Restart the application to apply it everywhere."
+msgstr "A nyelv mentve. A teljes alkalmazásban való érvényesítéshez indítsd újra a programot."
+
+msgid "Export complete."
+msgstr "Az exportálás elkészült."
+
+msgid "SQLite table name:"
+msgstr "SQLite-tábla neve:"
