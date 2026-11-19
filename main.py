@@ -108,7 +108,7 @@ class DataViewer:
         #.show_welcome()
 
     def build_ui(self):
-        self.root.title(self.t("Gomba Data Viewer"))
+        self.root.title(self.t("DuckTK Data Viewer"))
 
         self.toolbar = ttk.Frame(self.root, padding=8)
         self.toolbar.pack(fill="x")
